@@ -13,6 +13,6 @@ This folder contains the Jupyter Notebook scripts utilized for signal processing
 
 This folder contains a project used for online operation of the classifiers saved in the folder Classifiers. The online operation also uses a Myo Armband for data acquisition 
 
-#Subjects_raw, Subjects_sampled, Subjects_segmented
+# Subjects_raw, Subjects_sampled, Subjects_segmented
 
 Those folders contains sEMG signals acquired for the development of the final paper for this project
